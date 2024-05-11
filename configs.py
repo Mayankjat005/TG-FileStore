@@ -21,7 +21,7 @@ class Config(object):
 	OTHER_USERS_CAN_SAVE_FILE = [int(id) for id in os.environ.get("OTHER_USERS_CAN_SAVE_FILE", "").split(",") if id.strip()]
 	ABOUT_BOT_TEXT = f"""
 This is a Permanent FileStore Bot. 
-Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edit Permission, I will add save Uploaded File in Channel and Share a Shareable Link. 
+Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edit Permission, I will add save Uploaded File in Channel and Share a Shareable Link. Join @Warrior_Units 
 
 ╭────[ **🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅**]────⍟
 │
@@ -33,20 +33,20 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 │
 ├🔹 **Hosted On:** [Heroku](https://heroku.com)
 │
-├🔸 **Developer:** [Predator HackerzZ](https://t.me/OwnYourBotz) 
+├🔸 **Admin:** [Stranger](https://t.me/OO7Jatji) 
 │
-├🔹 **Bot Support:** [Support Group](https://t.me/TeleRoid14)
+├🔹 **Support Group:** [Support Group](https://t.me/WarriorUnits)
 │
-├🔸 **Bot Updates:** [Bots Channel](https://t.me/TeleRoidGroup)
+├🔸 **Bot Updates:** [Bots Channel](https://t.me/WarriorUnitsBots)
 │
 ╰──────[ 😎 ]───────────⍟
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@PredatorHackerzZ](https://github.com/PredatorHackerzZ)
+🧑🏻‍💻 **Admin:** [Stranger](https://t.me/OO7Jatji)
  
- I am Super noob Please Support My Hard Work.
+ Join @Warrior_Units @WarriorUnitsBots @WarriorUnits .
 
-[Donate Me](https://t.me/DonateXrobot) or ```teleroidgroup@axl```
+[Donate Me](https://t.me/Warrior_Units) or ```007jatji@ybl```
 """
 	HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
@@ -58,4 +58,6 @@ How to Use Bot & it's Benefits??
 ⚠️ Benefits: If you have a TeleGram Movie Channel or Any Copyright Channel, Then Its Useful for Daily Usage, You can Send Me Your File & I will Send Permanent Link to You & Channel will be Safe from **CopyRight Infringement** Issue. I support Channel Also You Can Check **About Bot**.
 
 ❌ **PORNOGRAPHY CONTENTS** are strictly prohibited & get Permanent Ban.
+
+😎 Before Using This Bot Join All Channel @Warrior_Units @WarriorUnitsBots @WarriorUnits Otherwise You Will Be Ban
 """
